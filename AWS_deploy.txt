@@ -33,6 +33,7 @@ connect via ssh to you aws server
 Clone your project from github using git clone
 8) ubuntu@54.162.31.253:~/myRepoName$ virtualenv venv
 9) ubuntu@54.162.31.253:~/myRepoName$ source venv/bin/activate
+10a) cd Python_belt_exam
 10) (venv)ubuntu@54.162.31.253:~/myRepoName$ pip install -r requirements.txt
 11) (venv) ubuntu@54.162.31.253:~/myRepoName$ pip install django bcrypt django-extensions
 12) (venv) ubuntu@54.162.31.253:~/myRepoName$ pip install gunicorn
